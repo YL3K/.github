@@ -2,7 +2,7 @@
 
 
 ## 👩‍👧‍👦 팀원
-|윤다빈|김우정|김재동|김현수|이다영|
+|<a href="https://github.com/yundabin0608">윤다빈</a>|<a href="https://github.com/pq5910">김우정</a>|<a href="https://github.com/growingJd">김재동</a>|<a href="https://github.com/find11570">김현수</a>|<a href="https://github.com/imdayoung">이다영</a>|
 |:----:|:----:|:----:|:----:|:-----:|
 |<img src="https://github.com/user-attachments/assets/62c38729-f0ad-4dc9-841e-d1416d879e61" height="100">|<img src="https://github.com/user-attachments/assets/9ea89ea2-fb2f-4b6b-b85c-1d268a38e48a" height="100">|<img src="https://github.com/user-attachments/assets/af73a32a-ddb9-4fb1-9330-3fabfb40165f" height="100">|<img src="https://github.com/user-attachments/assets/64172c33-e908-4ad1-b00d-9a6f491926fd" height="100">|<img src="https://github.com/user-attachments/assets/4d885a06-222e-42fc-8295-dfa42017970a" height="100">
 |담당|담당|담당|담당|담당|
@@ -23,7 +23,7 @@
 ![webrtc](https://img.shields.io/badge/webrtc-333333?style=for-the-badge&logo=webrtc&logoColor=white)<br/>
 ![springboot](https://img.shields.io/badge/springboot-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![chatgpt](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![openai](https://img.shields.io/badge/openai-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![amazons3](https://img.shields.io/badge/amazon%20s3-569A31?style=for-the-badge&logo=amazon%20s3&logoColor=white)
 ![springsecurity](https://img.shields.io/badge/spring%20security-6DB33F?style=for-the-badge&logo=spring%20security&logoColor=white)
 ![socketio](https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)<br/>
