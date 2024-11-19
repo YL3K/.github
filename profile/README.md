@@ -18,10 +18,10 @@
 ### 5. 맞춤 서비스 추천
 
 ## 🧑‍💻 개발 환경 및 기술
-![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![reactnative](https://img.shields.io/badge/react%20native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![webrtc](https://img.shields.io/badge/webrtc-333333?style=for-the-badge&logo=webrtc&logoColor=white)<br/>
-![springboot](https://img.shields.io/badge/springboot-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![springboot](https://img.shields.io/badge/spring%20boot-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![openai](https://img.shields.io/badge/openai-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![amazons3](https://img.shields.io/badge/amazon%20s3-569A31?style=for-the-badge&logo=amazon%20s3&logoColor=white)
